@@ -6,75 +6,69 @@
     <body>
         <header> 
             <h1 id="titulo-principal">Meus Filmes Favoritos</h1>
-            <ul>
-                <li><a href="#cube">clube da luta</a></li>
-                <li><a href="#hereditario">Hereditário</a></li>
-                <li><a href="#abruxa">A Bruxa</a></li>
-                <li><a href="#donnie">Donnie Darko</a></li>
-                <li><a href="#mid">Midsommar</a></li>
-                <li><a href="#batman">Batman: O Cavaleiro das Trevas</a></li>
-            </ul>
-        </header>
-        <main>
-            <section> 
-                <h2 id="clube">Clube da luta</h2>
-                <img src="./clubedaluta.jpg"/>
-
-                <p>
-                    <a href="https://pt.wikipedia.org/wiki/Fight_Club">Página do Filme</a>
-                </p>
-            </section>  
-            <section> 
-                <h2 id="hereditario">Hereditário</h2>
-                <img src="./hereditario.jpg"/>
-
-                <p>
-                    <a href="https://pt.wikipedia.org/wiki/Heredit%C3%A1rio_(filme)">Página do Filme</a>
-                </p>
-            </section>  
-            <section> 
-                <h2 id="abruxa">A Bruxa</h2>
-                <img src="./abruxa.jpg"/>
-
-                <p>
-                    <a href="https://pt.wikipedia.org/wiki/A_Bruxa">Página do Filme</a>
-                </p>
-            </section>  
-            <section> 
-                <h2 id="donnie">Donnie Darko</h2>
-                <img src="./donniedarko.jpg"/>
-
-                <p>
-                    <a href="https://pt.wikipedia.org/wiki/Donnie_Darko">Página do Filme</a>
-                </p>
-            </section>  
-            <section> 
-                <h2 id="mid">Midsommar</h2>
-                <img src="./midsommar.jpg"/>
-
-                <p>
-                    <a href="https://pt.wikipedia.org/wiki/Midsommar">Página do Filme</a>
-                </p>
-            </section>  
-            <section> 
-                <h2 id="batman">Batman: O Cavaleiro das Trevas</h2>
-                <img src="./batman.jpg"/>
-
-                <p>
-                    <a href="https://pt.wikipedia.org/wiki/The_Dark_Knight">Página do Filme</a>
-                </p>
-            </section>  
-        
+        <ul>
+            <li><a href="#clube">Clube da Luta</a></li>
+            <li><a href="#hereditario">Hereditário</a></li>
+            <li><a href="#abruxa">A Bruxa</a></li>
+            <li><a href="#donnie">Donnie Darko</a></li>
+            <li><a href="#mid">Midsommar</a></li>
+            <li><a href="#batman">Batman: O Cavaleiro das Trevas</a></li>
+        </ul>
+    </header>
+    <main>
+        <section> 
+            <h2 id="clube">Clube da Luta</h2>
+            <img src="./clubedaluta.jpg" alt="Clube da Luta"/>
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/Fight_Club">Página do Filme</a>
+            </p>
+        </section>  
+        <section> 
+            <h2 id="hereditario">Hereditário</h2>
+            <img src="./hereditario.jpg" alt="Hereditário"/>
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/Heredit%C3%A1rio_(filme)">Página do Filme</a>
+            </p>
+        </section>  
+        <section> 
+            <h2 id="abruxa">A Bruxa</h2>
+            <img src="./abruxa.jpg" alt="A Bruxa"/>
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/A_Bruxa">Página do Filme</a>
+            </p>
+        </section>  
+        <section> 
+            <h2 id="donnie">Donnie Darko</h2>
+            <img src="./donniedarko.jpg" alt="Donnie Darko"/>
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/Donnie_Darko">Página do Filme</a>
+            </p>
+        </section>  
+        <section> 
+            <h2 id="mid">Midsommar</h2>
+            <img src="./midsommar.jpg" alt="Midsommar"/>
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/Midsommar">Página do Filme</a>
+            </p>
+        </section>  
+        <section> 
+            <h2 id="batman">Batman: O Cavaleiro das Trevas</h2>
+            <img src="./batman.jpg" alt="Batman: O Cavaleiro das Trevas"/>
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/The_Dark_Knight">Página do Filme</a>
+            </p>
+        </section>
+    </main>
     <footer>
         <ul>
-            <li><a href="#cube">clube da luta</a></li>
-                <li><a href="#hereditario">Hereditário</a></li>
-                <li><a href="#abruxa">A Bruxa</a></li>
-                <li><a href="#donnie">Donnie Darko</a></li>
-                <li><a href="#mid">Midsommar</a></li>
-                <li><a href="#batman">Batman: O Cavaleiro das Trevas</a></li>
+            <li><a href="#clube">Clube da Luta</a></li>
+            <li><a href="#hereditario">Hereditário</a></li>
+            <li><a href="#abruxa">A Bruxa</a></li>
+            <li><a href="#donnie">Donnie Darko</a></li>
+            <li><a href="#mid">Midsommar</a></li>
+            <li><a href="#batman">Batman: O Cavaleiro das Trevas</a></li>
         </ul>
         <a href="#titulo-principal">Voltar ao início</a>
     </footer>
-    </body>
+</body>
 </html>
